@@ -6,10 +6,13 @@ using System.Net.Http.Headers;
 
 namespace NextechSelectApi
 {
+    // Perhaps this should be in its own file?
     public interface IApi
     {
         string GetPatients();
     }
+    // .........................
+    
     public class Api : IApi
     {
         private static HttpClient httpClient;

@@ -6,4 +6,4 @@
 
 <a name="overview"></a>
 ## Overview
-This project contains code samples for showing how to work with the [Nextech Select API](https://nextechsystems.github.io/selectapidocspub/)
+This project contains code samples for showing how to work with the [Nextech Select API](https://nextechsystems.github.io/selectapidocspub/). Please see project for usage.
